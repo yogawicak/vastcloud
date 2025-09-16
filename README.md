@@ -140,7 +140,7 @@ This repository contains infrastructure management scripts for VastCloud's inter
 
 ---
 
-**VastCloud** - Lightning-Fast VPS Hosting | 99% Uptime Guaranteed <mcreference link="https://vastcloud.id/" index="0">0</mcreference>
+**VastCloud** - Lightning-Fast VPS Hosting | 99% Uptime Guaranteed
 
 _Deploy powerful Virtual Private Servers in seconds with enterprise-class performance and reliability._
 
