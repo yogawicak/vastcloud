@@ -2,7 +2,7 @@
 
 🚀 **Infrastructure Management Scripts for VastCloud VPS Hosting**
 
-This repository contains infrastructure management scripts used by <mcreference link="https://vastcloud.id/" index="0">VastCloud</mcreference> - Indonesia's lightning-fast VPS hosting provider with 99% uptime guarantee <mcreference link="https://vastcloud.id/" index="0">0</mcreference>. The scripts help manage and maintain VastCloud's enterprise-grade VPS infrastructure.
+This repository contains infrastructure management scripts used by <mcreference link="https://vastcloud.id/" index="0">VastCloud</mcreference> - Indonesia's lightning-fast VPS hosting provider with 99% uptime guarantee. The scripts help manage and maintain VastCloud's enterprise-grade VPS infrastructure.
 
 ## 📋 About This Repository
 
