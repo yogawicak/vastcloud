@@ -6,7 +6,7 @@
 
 # Configuration
 SOURCE_DIR="/var/www"
-DEST_HOST="151.244.251.10"
+DEST_HOST="xxx.xxx.xxx.xxx" # Change this to your destination VPS IP
 DEST_DIR="/var/www"
 DEST_USER="root"  # Change this to your username on VPS B
 LOG_FILE="/tmp/migration_$(date +%Y%m%d_%H%M%S).log"
